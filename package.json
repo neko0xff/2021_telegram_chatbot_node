@@ -16,7 +16,7 @@
     "configparser": "^0.3.10",
     "express": "^4.21.2",
     "node-telegram-bot-api": "^0.64.0",
-    "puppeteer": "^22.11.2"
+    "puppeteer": "^22.15.0"
   },
   "repository": {
     "type": "git",
